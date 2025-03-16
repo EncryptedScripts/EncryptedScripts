@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=30&pause=1000&color=F39C12&center=true&vCenter=true&width=700&lines=Hello!+I'm+EncryptedScripts;Full-Stack+Developer+%7C+Pentester;Backend+Specialist+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;Software+Developer+%7C+Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Explorer;Coding+is+an+Art!+🎨" alt="Typing SVG" />
 </div>
+
 
 ---
 
@@ -44,9 +45,21 @@
 
 ---
 
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedScripts&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EncryptedScripts&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/encryptedscripts)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EncryptedScripts)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/081294841912)
 
 ---
