@@ -45,12 +45,6 @@
 
 ---
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedScripts&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
 ### 📈 Contribution Graph:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EncryptedScripts&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
